@@ -1,0 +1,235 @@
+ #fontPlanet{
+    font-family:"Monaco",monospace;
+    color:rgb(255,255,255);
+    font-weight: bold;
+    display: inline-block;
+    width:75%;
+margin: 0 auto;
+transform: translate(2.5rem,2.5rem);
+
+text-align:left;
+    
+} 
+#Nepheader{
+  color: rgb(255, 255, 255);
+  font-family:"Monaco",monospace;
+  /* learn css flex */
+  display: inline-block; 
+
+/* position: relative;
+/eft:35em; 
+transform: translateX(300px,300px); */
+
+/* width:700px; */
+width:75%;
+margin: 0 auto;
+
+text-align:right;
+} 
+   body{
+    background-color: #070625
+}   
+
+ hr.solid{
+
+    border-top:3px solid;
+    color: gray;
+    
+} 
+#mainhead{
+  /* position:absolute;
+  
+right:43%;
+top: 50%;   */
+font-size:50px;
+  color: rgb(255, 255, 255);
+   text-align:center;  
+transform: translateY(4em);
+font-family: "Monaco",monospace;
+ margin: auto; 
+
+
+
+}
+
+ #PLTinform{
+  color:rgb(179, 170, 170);
+  font-family:"Monaco",monospace;
+  
+  
+    /* position:absolute; 
+ left:45%;
+ top: 50%;  */
+  text-align:center;
+  transform: translateY(15em);
+  vertical-align: baseline;
+  white-space: pre-line;
+  
+} 
+ #sourcetest{
+  color: gray;
+  text-align: center;
+  transform: translateY(10em);
+  font-family:"Monaco",monospace;
+ 
+} 
+
+   .link{
+   width:64px;
+text-align: center;
+ text-decoration: underline;
+ font-family:"Monaco",monospace;
+   transform: translate(54em,10.5em);  
+  /* check this to solve sidebar */
+
+}  
+
+ 
+  #box{
+    color:rgb(255, 255, 255);
+  display: inline-block;
+   position: relative;
+   text-align:center;
+  border:1px solid rgb(255, 255, 255); 
+    width:300px;
+  height:40px;  
+  transform: translate(900px,215px); 
+  font-family:"Monaco",monospace;
+
+
+
+}   
+
+#box1{
+transform: translate(1500px,175px);
+width:300px;
+height:40px;
+position: relative;
+ opacity: 0;
+}
+
+
+#view2{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+   position: relative;
+   text-align:center;
+  border:1px solid rgb(255, 255, 255); 
+    width:300px;
+  height:45px;
+  transform: translateY(50px);  
+}
+#box2{
+  transform: translate(1325px,235px);
+  width:300px;
+  height:40px;
+  position: relative;
+  opacity: 0;
+  /* background-color: transparent; */
+  }
+
+#view3{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+   position: relative;
+   text-align:center;
+  border:1px solid rgb(255, 255, 255); 
+    width:300px;
+  height:45px;
+  transform: translateY(70px);  
+}
+
+#box3{
+  transform: translate(1225px,300px);
+  width:300px;
+  height:40px;
+  position: relative;
+  opacity: 0;
+  /* background-color: transparent; */
+  }
+.InformDIV{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+  border:1px solid rgb(255, 255, 255);
+  width:250px;
+  height:100px; 
+  transform: translateY(400px);
+
+  color: gray;
+  font-size: small;
+  text-align: center;
+}
+
+#color1h{
+  color: white;
+}
+
+.InformDIV2{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+  border:1px solid rgb(255, 255, 255);
+  width:250px;
+  height:100px; 
+  transform: translateY(400px);
+color:gray;
+ 
+  font-size: small;
+  text-align: center;
+}
+
+
+#color2h{
+  color: white;
+}
+
+
+.InformDIV3{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+  border:1px solid rgb(255, 255, 255);
+  width:250px;
+  height:100px; 
+  transform: translateY(400px);
+color:gray;
+ 
+  font-size: small;
+  text-align: center;
+}
+
+
+#color3h{
+  color: white;
+}
+
+
+
+.InformDIV4{
+  font-family:"Monaco",monospace;
+  display: inline-block;
+  border:1px solid rgb(255, 255, 255);
+  width:250px;
+  height:100px; 
+  transform: translateY(400px);
+color:gray;
+ 
+  font-size: small;
+  text-align: center;
+}
+
+
+#color4h{
+  color: white;
+}
+
+#pltimg{
+  position: relative;
+  height: 25em;
+  width: 25em;
+top: 45em;
+
+}
+  /* please get div tag and surround in text 
+  also open up that bookmark again
+  to correctly positon the heading 
+  Also hopefully we can open the 
+  neptune planet graphics*/
